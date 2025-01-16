@@ -1,12 +1,14 @@
-# fanuc-karel README
+# Fanuc Karel README
 
 Introducing the Fanuc Karel VS Code Extension – your ultimate companion for programming in Fanuc Karel! This powerful extension is designed to streamline your coding experience with a host of features. 
-
+s
 Whether you're a seasoned programmer or just getting started with Fanuc Karel, this extension will make your coding journey smoother and more enjoyable. Give it a try and see the difference it makes!
 
 ## Features
 
 * **Snippets**: Speed up your coding with pre-defined code snippets for common tasks, reducing repetitive typing and minimizing errors.
+
+    ![  Screenshot.](https://github.com/HunterTruba/Fanuc-Karel/blob/main/assets/images/icon.png)
 
 * **IntelliSense**: Benefit from intelligent code completion, parameter info, and quick info to boost your productivity.
 
@@ -21,16 +23,6 @@ Whether you're a seasoned programmer or just getting started with Fanuc Karel, t
 
 ![Screenshot.](https://github.com/HunterTruba/Fanuc-Karel/blob/main/assets/images/icon.png)
 
-
-
-
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
-
-For example if there is an image subfolder under your extension project workspace:
-
-\!\[feature X\]\(images/feature-x.png\)
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 
 ## Release Notes
 
