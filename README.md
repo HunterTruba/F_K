@@ -8,7 +8,7 @@ Whether you're a seasoned programmer or just getting started with Fanuc Karel, t
 
 * **Snippets**: Speed up your coding with pre-defined code snippets for common tasks, reducing repetitive typing and minimizing errors.
 
-    ![  Screenshot.](https://github.com/HunterTruba/Fanuc-Karel/blob/main/assets/images/icon.png)
+    ![Screenshot.](https://github.com/HunterTruba/Fanuc-Karel/blob/main/assets/images/icon.png)
 
 * **IntelliSense**: Benefit from intelligent code completion, parameter info, and quick info to boost your productivity.
 
@@ -19,16 +19,3 @@ Whether you're a seasoned programmer or just getting started with Fanuc Karel, t
 * **Document Insight**: No need to reference the Fanuc Karel manual again for a built-in, everything you need to know is located in a drop down description
 
 * **Foldings**: Easily manage and navigate through your code with folding capabilities, allowing you to collapse and expand sections for better organization.
-
-
-![Screenshot.](https://github.com/HunterTruba/Fanuc-Karel/blob/main/assets/images/icon.png)
-
-
-## Release Notes
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
