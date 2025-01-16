@@ -2911,6 +2911,10 @@
     },
     "ROUTINE":{
         "prefix": "ROUTINE",
-        "body": ["ROUTINE ${1:routine_name}\nBEGIN\n\nEND ${2:routine_name}"]
+        "body": ["ROUTINE ${1:routine_name}\n\nCONST\n\nVAR\n\nBEGIN\n\nEND ${2:routine_name}"]
+    },
+    "PROGRAM":{
+        "prefix": "PROGRAM",
+        "body": ["PROGRAM ${1:program_name}\n\n%COMMENT='${2:program_comment}'\n%\n%ENVIRONMENT ${4:environment_name}\n%INCLUDE ${5:other_program}\n\nCONST\n\nVAR\n\n\tROUTINE ${6:routine_name} FROM ${7:program_name}\n\nBEGIN\n\nEND ${8:program_name}"]
     }
 }

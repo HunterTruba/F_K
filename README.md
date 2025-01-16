@@ -7,7 +7,7 @@ Whether you're a seasoned programmer or just getting started with Fanuc Karel, t
 
 * **Snippets**: Speed up your coding with pre-defined code snippets for common tasks, reducing repetitive typing and minimizing errors.
 
-    ![Screenshot.](https://github.com/HunterTruba/Fanuc-Karel/blob/main/assets/images/icon.png)
+    ![Screenshot.](https://github.com/HunterTruba/Fanuc-Karel/blob/main/icon.png)
 
 * **IntelliSense**: Benefit from intelligent code completion, parameter info, and quick info to boost your productivity.
 
