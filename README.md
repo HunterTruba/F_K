@@ -1,7 +1,6 @@
 # Fanuc Karel README
 
-Introducing the Fanuc Karel VS Code Extension – your ultimate companion for programming in Fanuc Karel! This powerful extension is designed to streamline your coding experience with a host of features. 
-s
+Introducing the Fanuc Karel VS Code Extension – your ultimate companion for programming in Fanuc Karel! This powerful extension is designed to streamline your coding experience with a host of features.
 Whether you're a seasoned programmer or just getting started with Fanuc Karel, this extension will make your coding journey smoother and more enjoyable. Give it a try and see the difference it makes!
 
 ## Features
