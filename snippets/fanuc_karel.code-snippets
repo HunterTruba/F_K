@@ -2909,7 +2909,6 @@
         "    boolean_exp : a BOOLEAN expression \n",
         "\n\n"]
     },
-
     "ROUTINE":{
         "prefix": "ROUTINE",
         "body": ["ROUTINE ${1:routine_name}\nBEGIN\n\nEND ${2:routine_name}"]
