@@ -1,0 +1,51 @@
+{
+  "name": "fanuc-karel",
+  "displayName": "Fanuc Karel",
+  "description": "",
+  "version": "1.0.0",
+  "publisher": "Hunter Truba",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.94.0"
+	},
+	"categories": [
+		"Programming Languages"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "fanuc-karel",
+				"scopeName": "source.kl",
+				"path": "./snippets/fanuc_karel.code-snippets"
+			}
+		],
+		"themes": [
+			{
+				"label": "Fanuc Karel",
+				"id": "Karel",
+				"uiTheme": "vs-dark",
+				"path": "./themes/fanuc_karel-color-theme.json"
+			}
+		],
+		"languages": [
+			{
+				"id": "fanuc-karel",
+				"aliases": [
+					"fanuc-karel"
+				],
+				"extensions": [
+					".kl"
+				],
+				"configuration": "./languages/fanuc_karel-configuration.json"
+			}
+		],
+		"grammars": [
+			{
+				"language": "fanuc-karel",
+				"scopeName": "source.kl",
+				"path": "./grammars/fanuc_karel_grammer.json"
+			}
+		]
+
+	}
+}
