@@ -19,7 +19,7 @@ Whether you're a seasoned programmer or just getting started with Fanuc Karel, t
 * **Foldings**: Easily manage and navigate through your code with folding capabilities, allowing you to collapse and expand sections for better organization.
 
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot.](https://github.com/HunterTruba/Fanuc-Karel/blob/main/icon.png)
 
 
 
