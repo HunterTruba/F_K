@@ -25,7 +25,7 @@ Whether you're a seasoned programmer or just getting started with Fanuc Karel, t
     ![Syntax Highlighting & Theme](https://github.com/HunterTruba/Fanuc-Karel/blob/main/assets/images/Theme.png?raw=true)
 ## 
 ## Special Thanks
-ONE Robotics Company for their GitHub repository: [https://github.com/onerobotics/vim-karel](https://github.com/onerobotics/vim-karel).
+ONE Robotics Company: [https://github.com/onerobotics/vim-karel](https://github.com/onerobotics/vim-karel).
 
-Fabian Illner for his GitHub repository: [https://github.com/illnr/vscode-fanuc-karel](https://github.com/illnr/vscode-fanuc-karel).
+Fabian Illner: [https://github.com/illnr/vscode-fanuc-karel](https://github.com/illnr/vscode-fanuc-karel).
 
