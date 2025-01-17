@@ -3,7 +3,7 @@
   "displayName": "Fanuc Karel",
   "description": "",
   "version": "1.0.0",
-  "publisher": "Hunter Truba",
+  "publisher": "HunterTruba1022",
   "homepage": "https://github.com/HunterTruba/Fanuc-Karel/blob/main/README.md",
   "private": false,
   "galleryBanner.color": {
@@ -15,7 +15,7 @@
 	  "type": "git",
 	  "url": "https://github.com/HunterTruba/Fanuc-Karel"
   },
-  "icon": "assets/icon.png",
+  "icon": "./assets/icon/icon.png",
   "engines": {
     "vscode": "^1.94.0"
 	},
