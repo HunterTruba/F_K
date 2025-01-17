@@ -2854,7 +2854,7 @@
     
     "FOR...ENDFOR Statement":{
         "prefix": "FOR...ENDFOR",
-        "body": ["FOR (${1:count} = ${2:initial}) TO/DOWNTO (${3:final}) DO\n\t${4:statement} \nENDFOR\n"],
+        "body": ["FOR (${1:count} = ${2:initial}) ${3:TO} ${4:DOWNTO} (${5:final}) DO\n\t${6:statement} \nENDFOR\n"],
         "description": ["Purpose: Looping construct based on an INTEGER counter. \n",
         "    [in]count :INTEGER variable",
         "    [in]initial :INTEGER expression",
@@ -2915,6 +2915,6 @@
     },
     "PROGRAM":{
         "prefix": "PROGRAM",
-        "body": ["PROGRAM ${1:program_name}\n\n%COMMENT='${2:program_comment}'\n%\n%ENVIRONMENT ${4:environment_name}\n%INCLUDE ${5:other_program}\n\nCONST\n\nVAR\n\n\tROUTINE ${6:routine_name} FROM ${7:program_name}\n\nBEGIN\n\nEND ${8:program_name}"]
+        "body": ["PROGRAM ${1:program_name}\n\n%COMMENT='${2:program_comment}'\n%ENVIRONMENT ${4:environment_name}\n%INCLUDE ${5:other_program}\n\nCONST\n\nVAR\n\n\nBEGIN\n\nEND ${8:program_name}"]
     }
 }
